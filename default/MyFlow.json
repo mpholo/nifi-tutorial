@@ -37,7 +37,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "3396e705-4583-324c-b11c-28e7a8f081ae",
-        "name" : "UpdateAttribute",
+        "name" : "New Name for Processor",
         "type" : "PROCESSOR"
       },
       "zIndex" : 2
@@ -50,7 +50,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "3396e705-4583-324c-b11c-28e7a8f081ae",
-        "name" : "UpdateAttribute",
+        "name" : "New Name for Processor",
         "type" : "PROCESSOR"
       },
       "flowFileExpiration" : "0 sec",
@@ -116,7 +116,7 @@
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "3396e705-4583-324c-b11c-28e7a8f081ae",
       "maxBackoffPeriod" : "10 mins",
-      "name" : "UpdateAttribute",
+      "name" : "New Name for Processor",
       "penaltyDuration" : "30 sec",
       "position" : {
         "x" : -400.0,
@@ -191,6 +191,7 @@
         "File Size" : "0B",
         "Batch Size" : "1",
         "Unique FlowFiles" : "false",
+        "Custom Text" : "some nonsense goes here 2",
         "Character Set" : "UTF-8",
         "Data Format" : "Text"
       },
@@ -266,6 +267,6 @@
   "snapshotMetadata" : {
     "author" : "88cf32ca-024b-4414-9ad9-5ca6f860ec85",
     "flowIdentifier" : "MyFlow",
-    "timestamp" : 1777473424462
+    "timestamp" : 1777473866364
   }
 }
